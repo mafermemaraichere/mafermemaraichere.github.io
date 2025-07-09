@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mafermemaraichere/static/css/main.ab54ae34.css",
+    "main.js": "/mafermemaraichere/static/js/main.63db22dd.js",
+    "static/js/453.8b306300.chunk.js": "/mafermemaraichere/static/js/453.8b306300.chunk.js",
+    "index.html": "/mafermemaraichere/index.html",
+    "main.ab54ae34.css.map": "/mafermemaraichere/static/css/main.ab54ae34.css.map",
+    "main.63db22dd.js.map": "/mafermemaraichere/static/js/main.63db22dd.js.map",
+    "453.8b306300.chunk.js.map": "/mafermemaraichere/static/js/453.8b306300.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab54ae34.css",
+    "static/js/main.63db22dd.js"
+  ]
+}
